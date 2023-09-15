@@ -1,6 +1,7 @@
 .logoimg {
     border-radius: 50%;
     max-width: 20%;
+    
 }
 
 .colcheck {
@@ -39,5 +40,17 @@
     text-align: center;
     padding-bottom: 15px;  }
 .footext{
-    color: #3F72AF;    
+    color:darkcyan;    
+}
+
+#slogo {
+    position: absolute;
+    right: 0px;
+    max-width: 50%;
+    max-height: 50%;
+}
+#mapsec {
+    padding-bottom: 10px;
+    text-align: center;
+    color:darkcyan;  
 }
